@@ -6,7 +6,7 @@
 *Transforming code into vivid graphics & animations*  
 *Robust APIs in Go (but my heart belongs to the UI)* ✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raulcuellar-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/raulcuellar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raulcuellar-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raúl-cuéllar-648bb125)
 [![Email](https://img.shields.io/badge/Email-raulito1500%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:raulito1500@gmail.com)
 
 </div>
@@ -54,15 +54,6 @@ Currently **open to freelance** — big projects, small projects, "my website is
 |---|---|---|---|
 | [IELTS Simulator](https://github.com/raulito1500/ielts-simulator) | English exam practice app with timed sections and scoring | React, Tailwind CSS | [Live](https://raulito1500.github.io/ielts-simulator) |
 | [React Todolist](https://github.com/raulito1500/react-todolist) | Clean task manager with persistent state | React, CSS | [Live](https://raulito1500.github.io/react-todolist) |
-
-## GitHub Stats
-
-<div align="center">
-
-![Raúl's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulito1500&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulito1500&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
